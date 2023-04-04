@@ -31,7 +31,7 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𓆩 ᴏɢ ✘ ᴀsᴛᴀᴀᴅ 𓆪](https://t.me
 
 [![OG DEADLYSPAMBOT TUTORIAL](https://img.shields.io/badge/Watch%20Now-blue)](http://youtu.be/iAG3csVQo_g)
 
-## What Is DeadlySpamBot
+## What Is OG DeadlySpamBot
 
 <b>OG DeadlySpamBot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
 
@@ -41,6 +41,6 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𓆩 ᴏɢ ✘ ᴀsᴛᴀᴀᴅ 𓆪](https://t.me
 
 # CᴏɴᴛʀɪBᴜᴛᴏʀꜱ
 
-
+<c [OG_DILLU](https://github.com/Dillu1984)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
